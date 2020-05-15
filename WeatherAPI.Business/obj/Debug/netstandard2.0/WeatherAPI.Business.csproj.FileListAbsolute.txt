@@ -1,0 +1,16 @@
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\WeatherAPI.Business.deps.json
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\WeatherAPI.Business.dll
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\WeatherAPI.Business.pdb
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\Models.dll
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\Weather.API.Common.dll
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\Weather.API.Models.dll
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\Weather.API.Common.pdb
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\bin\Debug\netstandard2.0\Weather.API.Models.pdb
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\obj\Debug\netstandard2.0\WeatherAPI.Business.csprojAssemblyReference.cache
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\obj\Debug\netstandard2.0\WeatherAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\obj\Debug\netstandard2.0\WeatherAPI.Business.AssemblyInfoInputs.cache
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\obj\Debug\netstandard2.0\WeatherAPI.Business.AssemblyInfo.cs
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\obj\Debug\netstandard2.0\WeatherAPI.Business.csproj.CopyComplete
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\obj\Debug\netstandard2.0\WeatherAPI.Business.dll
+C:\Users\h245254\source\repos\weatherAPI\WeatherAPI.Business\obj\Debug\netstandard2.0\WeatherAPI.Business.pdb

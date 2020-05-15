@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qw5QEZ0cQh4SJmH81IW9u8GphXI17I7qL54eHy+WPJ9pBY+1hql7jSqsxCg+b77vde3wN15+EQyVZ7X1wPVOqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\h245254\\source\\repos\\weatherAPI\\Weather.API.Common\\Weather.API.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\h245254\\.nuget\\packages\\restsharp\\106.11.3\\restsharp.106.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}
